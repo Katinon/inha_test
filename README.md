@@ -1,2 +1,2 @@
 # inha_test
-test GIT, 2
+test GIT, 3
